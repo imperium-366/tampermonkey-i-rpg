@@ -6,6 +6,8 @@
 // @author       366
 // @match        https://i-rpg.net/*
 // @icon         https://cdn-icons-png.flaticon.com/32/9594/9594262.png
+// @updateURL    https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_switch_account.js
+// @downloadURL  https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_switch_account.js
 // @grant        none
 // ==/UserScript==
 
