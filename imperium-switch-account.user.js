@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Imperium - Przełączenie Konta
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/imperium-366/tampermonkey-i-rpg/tree/main
 // @version      1.0
 // @description  Dodaje przycisk do przełączania konta dodatkowego
 // @author       366
 // @match        https://i-rpg.net/*
 // @icon         https://cdn-icons-png.flaticon.com/32/9594/9594262.png
-// @updateURL    https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_switch_account.js
-// @downloadURL  https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_switch_account.js
+// @updateURL    https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium-switch-account.user.js
+// @downloadURL  https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium-switch-account.user.js
 // @grant        none
 // ==/UserScript==
 
