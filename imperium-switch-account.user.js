@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Imperium - Przełączenie Konta
-// @namespace    https://github.com/imperium-366/tampermonkey-i-rpg/tree/main
+// @namespace    https://github.com/imperium-366/tampermonkey-i-rpg
 // @version      1.0
 // @description  Dodaje przycisk do przełączania konta dodatkowego
 // @author       366
