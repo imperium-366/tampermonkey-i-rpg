@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Imperium - Depozyty
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/imperium-366/tampermonkey-i-rpg/tree/main
 // @version      1.0
 // @description  Dodaje przycisk do odłożenia 75% złota z ręki do skarbca albo 100% złota z ręki do gildi.
 // @author       366
 // @match        https://i-rpg.net/*
 // @icon         https://cdn-icons-png.flaticon.com/32/9594/9594262.png
-// @updateURL    https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_deposits.js
-// @downloadURL  https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium_deposits.js
+// @updateURL    https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium-deposits.user.js
+// @downloadURL  https://raw.githubusercontent.com/imperium-366/tampermonkey-i-rpg/refs/heads/main/imperium-deposits.user.js
 // @grant        none
 // ==/UserScript==
 
